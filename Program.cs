@@ -2,11 +2,8 @@
 
 namespace MyFirstApp
 {
-    class Program
-    {
-        static void Main(string[] args)
+        class MyClass
         {
-            Console.WriteLine("Hello World!");
+
         }
-    }
 }
